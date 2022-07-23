@@ -1,0 +1,30 @@
+# -9
+# print(_)
+# print(a)
+# print(number)
+# print(n)
+
+# -com5=7
+# rt=3
+# 6t=7 invalidsyntax
+# c_rt name'c_r'is not defind
+# ydht=fydgybfrexe-4
+
+# A=4;B=8
+# print(A)
+# print(B)
+# C=A
+# A=B
+# B=C
+# print(A)
+# print(B)
+# print(C)
+
+# x=6;y=2
+# print(x)
+# x,y=y,x
+# print(x)
+# print('abc'.isidentifier())
+# print('a b c'.isidentifier())
+# print('_'.isidentifier())
+# print('a_b_'.isidentifier())
